@@ -1,10 +1,8 @@
 ### Hi there 👋
-I am a Computer Science student at University Tunis EL Manar, interested in optimizations and compressions algorithms also new to AI and recommendations models.
-Obsessed with clean code and clean architecture practices, Love to spend my freetime learning new stuff, surfing and reading books.
+A software engineer that can work with Java, Typescript, C# and Python. 
+I do boxing on my freetime, I like to read books too (mostly biographies and history), and I also enjoy watching sports (UFC and Football).
 
-
-- 🌱 I’m currently learning Django
-- 💬 Ask me about anything related to CS
-- 📫 How to reach me in Instagram: @ghassenjemaii
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me in Instagram: @ggghassen
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate coffees 
