@@ -1,6 +1,6 @@
 👋 **Ciao, I'm Ghassen Jemiai!** 🇮🇹
 
-![Profile Views](https://komarev.com/ghpvc/beamerboi)
+![Profile Views](https://komarev.com/ghpvc/?username=beamerboi)
 
 💼 **Software Engineer** developing scalable SaaS applications, payment system integrations, and AI-based solutions.
 🎓 **Master's Degree** student in Computer Science at Università di Firenze.
