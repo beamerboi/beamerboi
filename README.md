@@ -1,6 +1,6 @@
 👋 **Ciao, I'm Ghassen Jemiai!** 🇮🇹
 
-![Profile Views](https://img.shields.io/badge/Profile%20views-15%2C268-blue)
+![Profile Views](https://komarev.com/ghpvc/beamerboi)
 
 💼 **Software Engineer** developing scalable SaaS applications, payment system integrations, and AI-based solutions.
 🎓 **Master's Degree** student in Computer Science at Università di Firenze.
